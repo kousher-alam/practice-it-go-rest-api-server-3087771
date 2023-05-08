@@ -1,4 +1,4 @@
-module github.com/kousher-alam/go-rest-api
+module example.com/practice
 
 go 1.18
 
